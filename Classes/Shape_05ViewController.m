@@ -44,7 +44,7 @@
 		
 		CGPathAddLineToPoint(pentagonPath, nil,center.x + x, center.y + y);
 	}
-	CGPathCloseSubpath(pentagonPath); //This screws everything up.
+	CGPathCloseSubpath(pentagonPath); //This seems to be fixed in 4.0
 	
 	
 	//Star Path
