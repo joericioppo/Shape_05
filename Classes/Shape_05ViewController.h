@@ -9,19 +9,9 @@
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
 
-@interface Shape_05ViewController : UIViewController {
+@interface Shape_05ViewController : UIViewController 
 
-	CALayer						*rootLayer;
-	
-	CAShapeLayer			*shapeLayer;
-	
-	CGMutablePathRef		pentagonPath;
-	CGMutablePathRef		starPath;
-	
-}
-
--(void)startAnimation;
-
+- (void)startAnimation;
 
 @end
 

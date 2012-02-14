@@ -10,13 +10,9 @@
 
 @class Shape_05ViewController;
 
-@interface Shape_05AppDelegate : NSObject <UIApplicationDelegate> {
-    UIWindow *window;
-    Shape_05ViewController *viewController;
-}
+@interface Shape_05AppDelegate : NSObject <UIApplicationDelegate> 
 
-@property (nonatomic, retain) IBOutlet UIWindow *window;
-@property (nonatomic, retain) IBOutlet Shape_05ViewController *viewController;
+@property (nonatomic, strong) IBOutlet UIWindow *window;
 
 @end
 

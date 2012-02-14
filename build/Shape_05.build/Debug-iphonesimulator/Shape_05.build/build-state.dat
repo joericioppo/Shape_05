@@ -1,267 +1,0 @@
-TShape_05
-v7
-r0
-t273797263.081529
-cCheck dependencies
-cProcessInfoPlistFile /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Info.plist Shape_05-Info.plist
-cCompileXIB /Users/test/_dev/_codes/Shape_05/MainWindow.xib
-cCompileXIB /Users/test/_dev/_codes/Shape_05/Shape_05ViewController.xib
-cProcessPCH /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch.gch Shape_05_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/main.o /Users/test/_dev/_codes/Shape_05/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05AppDelegate.o /Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05ViewController.o /Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05 normal i386
-cGenerateDSYMFile /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app.dSYM /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05
-cTouch /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
-c000000004A9D273800000000000000EE
-t1251813176
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004A0BAA26000000000026EE80
-t1242278438
-s2551424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004A0BAB370000000000261F90
-t1242278711
-s2498448
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004A0BAB250000000000001355
-t1242278693
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004A0BADD7000000000000007D
-t1242279383
-s125
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004A0CBEBB000000000000075E
-t1242349243
-s1886
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004A0CBF5F0000000001434100
-t1242349407
-s21184768
-
-N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004A67D2580000000000CE6940
-t1248318040
-s13527360
-
-N/Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.h
-c000000004AA1985B00000000000001DC
-t1252104283
-s476
-i<UIKit/UIKit.h>
-
-N/Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m
-c000000004AA1985B0000000000000266
-t1252104283
-s614
-i"Shape_05AppDelegate.h"
-i"Shape_05ViewController.h"
-
-N/Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.h
-c000000004AA1989E000000000000019E
-t1252104350
-s414
-i<UIKit/UIKit.h>
-i<QuartzCore/QuartzCore.h>
-
-N/Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m
-c000000004AA1990C000000000000098E
-t1252104460
-s2446
-i"Shape_05ViewController.h"
-
-N/Users/test/_dev/_codes/Shape_05/MainWindow.xib
-c000000004AA1985B0000000000002420
-t1252104283
-s9248
-
-N/Users/test/_dev/_codes/Shape_05/Shape_05ViewController.xib
-c000000004AA1985B00000000000018A6
-t1252104283
-s6310
-
-N/Users/test/_dev/_codes/Shape_05/Shape_05_Prefix.pch
-c000000004AA1985B00000000000000B9
-t1252104283
-s185
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app
-t1252104463
-s238
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app.dSYM
-t1252104463
-s102
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Info.plist
-t1252104461
-s566
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/MainWindow.nib
-t1252104462
-s1497
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/PkgInfo
-t1252104461
-s8
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05
-t1252104463
-s20532
-
-N/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05ViewController.nib
-t1252104462
-s1151
-
-N/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05.LinkFileList
-c000000004AA1990D0000000000000183
-t1252104461
-s387
-
-N/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05AppDelegate.o
-t1252104462
-s38720
-
-N/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05ViewController.o
-t1252104463
-s37732
-
-N/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/main.o
-t1252104462
-s5932
-
-N/Users/test/_dev/_codes/Shape_05/main.m
-c000000004AA1985B0000000000000161
-t1252104283
-s353
-i<UIKit/UIKit.h>
-
-N/var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch.gch
-t1252104462
-s12957072
-
-NShape_05-Info.plist
-c000000004AA1985B000000000000038D
-t1252104283
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies273797261#273797261#0(0"0(0#1#0"4300882208#0"0#
-
-CCompileC build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05AppDelegate.o /Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s273797262.907776
-e273797262.979732
-r1
-xCompileC
-xbuild/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05AppDelegate.o
-x/Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m273797262#273797262#0(0"0(0#0#62"/Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m4300882208#1849"    cd /Users/test/_dev/_codes/Shape_05    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-generated-files.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-own-target-headers.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-all-target-headers.hmap -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-project-headers.hmap -F/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources/i386 -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch -c /Users/test/_dev/_codes/Shape_05/Classes/Shape_05AppDelegate.m -o /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05AppDelegate.o0#
-
-CCompileC build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05ViewController.o /Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s273797262.957872
-e273797263.028887
-r1
-xCompileC
-xbuild/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05ViewController.o
-x/Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@73"Compile /Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m273797262#273797263#0(0"0(0#0#65"/Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m4300882208#1855"    cd /Users/test/_dev/_codes/Shape_05    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-generated-files.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-own-target-headers.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-all-target-headers.hmap -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-project-headers.hmap -F/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources/i386 -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch -c /Users/test/_dev/_codes/Shape_05/Classes/Shape_05ViewController.m -o /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05ViewController.o0#
-
-CCompileC build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/main.o /Users/test/_dev/_codes/Shape_05/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s273797262.906882
-e273797262.957768
-r1
-xCompileC
-xbuild/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/main.o
-x/Users/test/_dev/_codes/Shape_05/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/test/_dev/_codes/Shape_05/main.m273797262#273797262#0(0"0(0#0#39"/Users/test/_dev/_codes/Shape_05/main.m4300882208#1811"    cd /Users/test/_dev/_codes/Shape_05    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-generated-files.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-own-target-headers.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-all-target-headers.hmap -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-project-headers.hmap -F/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources/i386 -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources -include /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch -c /Users/test/_dev/_codes/Shape_05/main.m -o /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/test/_dev/_codes/Shape_05/MainWindow.xib
-s273797261.929407
-e273797262.411821
-r1
-xCompileXIB
-x/Users/test/_dev/_codes/Shape_05/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib273797261#273797262#0(0"0(0#0#47"/Users/test/_dev/_codes/Shape_05/MainWindow.xib4300882208#414"    cd /Users/test/_dev/_codes/Shape_05    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/MainWindow.nib /Users/test/_dev/_codes/Shape_05/MainWindow.xib0#
-
-CCompileXIB /Users/test/_dev/_codes/Shape_05/Shape_05ViewController.xib
-s273797261.929995
-e273797262.410409
-r1
-xCompileXIB
-x/Users/test/_dev/_codes/Shape_05/Shape_05ViewController.xib
-lSLF07#2@37"CompileXIB Shape_05ViewController.xib273797261#273797262#0(0"0(0#0#59"/Users/test/_dev/_codes/Shape_05/Shape_05ViewController.xib4300882208#438"    cd /Users/test/_dev/_codes/Shape_05    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05ViewController.nib /Users/test/_dev/_codes/Shape_05/Shape_05ViewController.xib0#
-
-CGenerateDSYMFile /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app.dSYM /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05
-s273797263.056578
-e273797263.077834
-r1
-xGenerateDSYMFile
-x/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app.dSYM
-x/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05
-lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Shape_05.app.dSYM build/Debug-iphonesimulator/Shape_05.app/Shape_05273797263#273797263#0(0"0(0#0#82"/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_054300882208#368"    cd /Users/test/_dev/_codes/Shape_05    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05 -o /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app.dSYM0#
-
-CLd /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05 normal i386
-s273797263.028978
-e273797263.056483
-r1
-xLd
-x/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05
-xnormal
-xi386
-lSLF07#2@87"Link /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_05273797263#273797263#0(0"0(0#0#0"4300882208#859"    cd /Users/test/_dev/_codes/Shape_05    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator -F/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator -filelist /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Objects-normal/i386/Shape_05.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Shape_050#
-
-CProcessInfoPlistFile /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Info.plist Shape_05-Info.plist
-s273797261.926324
-e273797261.929341
-r1
-xProcessInfoPlistFile
-x/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Info.plist
-xShape_05-Info.plist
-lSLF07#2@27"Process Shape_05-Info.plist273797261#273797261#0(0"0(0#0#52"/Users/test/_dev/_codes/Shape_05/Shape_05-Info.plist4300882208#464"    cd /Users/test/_dev/_codes/Shape_05    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Shape_05-Info.plist -genpkginfo /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app/Info.plist0#
-
-CProcessPCH /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch.gch Shape_05_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s273797262.411904
-e273797262.906782
-r1
-xProcessPCH
-x/var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch.gch
-xShape_05_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile Shape_05_Prefix.pch273797262#273797262#0(0"0(0#0#52"/Users/test/_dev/_codes/Shape_05/Shape_05_Prefix.pch4300882208#1708"    cd /Users/test/_dev/_codes/Shape_05    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-generated-files.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-own-target-headers.hmap -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-all-target-headers.hmap -iquote /Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/Shape_05-project-headers.hmap -F/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator -I/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/include -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources/i386 -I/Users/test/_dev/_codes/Shape_05/build/Shape_05.build/Debug-iphonesimulator/Shape_05.build/DerivedSources -c /Users/test/_dev/_codes/Shape_05/Shape_05_Prefix.pch -o /var/folders/Ug/UgWlhb3cGKqo52lNwMSYmU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shape_05_Prefix-cjbjqwmfvyafxmdbjuvpupoyyxwl/Shape_05_Prefix.pch.gch0#
-
-CTouch /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app
-s273797263.077914
-e273797263.081490
-r1
-xTouch
-x/Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app
-lSLF07#2@79"Touch /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app273797263#273797263#0(0"0(0#0#0"4300882208#267"    cd /Users/test/_dev/_codes/Shape_05    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/test/_dev/_codes/Shape_05/build/Debug-iphonesimulator/Shape_05.app0#
-
