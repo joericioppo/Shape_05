@@ -23,7 +23,6 @@
 	UIView *appView = [[UIView alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
 	appView.backgroundColor = [UIColor blackColor];
 	self.view = appView;
-	[appView release];
 	
 	rootLayer	= [CALayer layer];
 	rootLayer.frame = self.view.bounds;
@@ -71,16 +70,9 @@
 	animation.timingFunction = [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionEaseInEaseOut];
 	animation.repeatCount = HUGE_VALF;
 	animation.autoreverses = YES;
-	animation.fromValue = (id)pentagonPath;
-	animation.toValue = (id)starPath;
+	animation.fromValue = (__bridge_transfer id)pentagonPath;
+	animation.toValue = (__bridge_transfer id)starPath;
 	[shapeLayer addAnimation:animation forKey:@"animatePath"];
 }
-
-- (void)dealloc {
-	CGPathRelease(starPath);
-	CGPathRelease(pentagonPath);
-    [super dealloc];
-}
-
 
 @end
