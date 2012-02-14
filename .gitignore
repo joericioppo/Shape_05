@@ -10,3 +10,5 @@ build/*
 
 *.mode1v3
 *.mode2v3
+Shape_05.xcodeproj/project.xcworkspace/*
+Shape_05.xcodeproj/xcuserdata/*
